@@ -5,9 +5,6 @@ library(readr)
 library(tidyr)
 library(stringr)
 
-# Link to the data
-# https://drive.google.com/file/d/1-Y3EgvWcSbrTqYaHGQA5AA0YJYQfa-iJ/view?usp=sharing 
-
 # Load the dataset
 games <- read_csv("/data_group_b.csv")
 
